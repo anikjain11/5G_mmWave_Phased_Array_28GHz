@@ -1,0 +1,4 @@
+# Ignore CST simulation result data
+*/Result/
+*.tmp
+*.bak
