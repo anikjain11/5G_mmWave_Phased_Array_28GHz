@@ -1,0 +1,50 @@
+{
+    "parameters": [
+        {
+            "expr": "4.24",
+            "name": "W_patch",
+            "value": "4.24"
+        },
+        {
+            "expr": "3.47",
+            "name": "L_patch",
+            "value": "3.47"
+        },
+        {
+            "expr": "0.254",
+            "name": "h",
+            "value": "0.254"
+        },
+        {
+            "expr": "10",
+            "name": "W_sub",
+            "value": "10"
+        },
+        {
+            "expr": "10",
+            "name": "L_sub",
+            "value": "10"
+        },
+        {
+            "expr": "0.035",
+            "name": "t_metal",
+            "value": "0.035"
+        },
+        {
+            "expr": "0.78",
+            "name": "W_feed",
+            "value": "0.78"
+        },
+        {
+            "expr": "1.1",
+            "name": "Inset_L",
+            "value": "1.1"
+        },
+        {
+            "expr": "0.4",
+            "name": "Inset_G",
+            "value": "0.4"
+        }
+    ],
+    "version": 1
+}
