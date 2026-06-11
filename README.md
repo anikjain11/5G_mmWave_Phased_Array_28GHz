@@ -33,3 +33,20 @@ S-Parameter Analysis (PDF)
 3D Radiation Pattern Plot (PDF)
 
 Developed as part of RF and Analog Front-End research initiatives.
+
+## Phase 2: 1x2 Phased Array System
+To demonstrate electronic beam steering, a 1x2 finite array was constructed utilizing the optimized unit cell with a λ/2 element spacing (5.35 mm). 
+
+### Array Performance Metrics
+- **Element Matching (S11 / S22):** -37 dB at 28 GHz
+- **Mutual Coupling (S21 / S12):** -37 dB (High Isolation)
+- **Boresight Gain (0° Phase Shift):** 7.44 dBi
+- **Steered Gain (90° Phase Shift):** 8.49 dBi
+
+### Active Impedance Analysis
+While individual port matching was exceptional, the array demonstrated significant Active Impedance variation during simultaneous excitation. The active S-parameters (`S1,1[Active]`) approached 0 dB, resulting in a total efficiency drop to -8.6 dB. This highlights the critical impact of mutual coupling and spatial field interactions in mmWave phased array active states, presenting a clear path for future matching network optimization.
+
+### Array Validation Documentation
+1. [Array S-Parameters & Active Matching](Result/image_dd0444.png)
+2. [Boresight Radiation Pattern (0°)](Result/Boresight_Farfield_Plot_3D.pdf)
+3. [Steered Radiation Pattern (90°)](Result/Steered_Farfield_Plot_3D.pdf)
