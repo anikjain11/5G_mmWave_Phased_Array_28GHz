@@ -1,0 +1,13 @@
+{
+   "Author": "anikj",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f",
+   "Mesh Cells": "7,671",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:5g_mmwave_phased_array3.cst?dce855af16e8a72e25430e7f32dc8e76?40809:numberofparameters=9:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::inset_g?inset_l?l_patch?l_sub?w_feed?w_patch?w_sub?h?t_metal",
+   "ProjectVersion": "'# MWS Version: Version 2025.4 - Apr 11 2025 - ACIS 34.0.1 - Learning Edition",
+   "Results": "Frequency Domain: S-Parameter",
+   "Version": "3"
+}
